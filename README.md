@@ -1,4 +1,9 @@
 
+## Vision Statement
+
+Create the simplest and most approachable language-learning flashcard app for beginners, emphasizing clarity, consistency, and daily progress over complexity.
+
+
 ## License
 
 This repository is made publicly available so employers, recruiters, and
