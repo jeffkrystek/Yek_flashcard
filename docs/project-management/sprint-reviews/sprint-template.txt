@@ -1,0 +1,14 @@
+☐ Finish all Stories
+☐ Complete Sprint Review
+☐ Complete Sprint Retrospective
+☐ Update Decision Log
+☐ Update Changelog
+☐ Update Time Log
+☐ Update Budget
+☐ Update Project Schedule
+☐ Close Sprint in Jira
+☐ Plan next Sprint
+☐ Select new Stories
+☐ Start next Sprint
+☐ Commit documentation to GitHub
+☐ Update portfolio website (optional)
