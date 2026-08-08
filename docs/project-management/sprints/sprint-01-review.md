@@ -1,11 +1,13 @@
-# Sprint 1 Review 
-# July 12, 2026 - August 1, 2026
+# Sprint 1 Review: August 8, 2028
+# Sprint 1 Dates: July 12, 2026 - August 1, 2026
 
 ## Sprint Goal
 
 Establish the project foundation and core planning documentation.
 
-## Hours worked: 27
+## Hours worked: 30
+Includes 3 hours for first-time Sprint closeout
+
 ## Story Points completed/assigned: 21/34
 
 ## Completed
@@ -43,7 +45,7 @@ Establish the project foundation and core planning documentation.
 ## Not Completed
 
 [ ] Product Requirements Document (full)
-- Functional Requirements (in progress)
+Functional Requirements (in progress)
 
 ## Sprint Goal Status
 
