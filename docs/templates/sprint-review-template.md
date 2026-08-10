@@ -59,6 +59,31 @@ Additional research needed before selecting data structure.
 
 ---
 
+## Major Decisions
+
+- Agile Scrum selected
+- Theee-week sprint cadence
+- Flutter chosen as development framework
+- Jira selected for workflow
+- Notion chosen for documentation creation
+- All Rights Reserved license selected
+
+## Challenges
+
+- Learning Jira configuration
+- Learning Notion configuration
+- GitHub setup and integration with my local workspace
+- Designing the PRD structure
+- Assigned too many Story Points for Sprint
+
+## Stakeholder Notes
+
+No changes to Scope.
+Story Point assignment were accurate.
+Project remains on schedule and ready to continue into Sprint 2.
+
+---
+
 ## Next Sprint Goals
 
 - Finalize architecture

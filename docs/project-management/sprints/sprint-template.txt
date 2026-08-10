@@ -1,6 +1,8 @@
 ☐ Finish all Stories
 ☐ Complete Sprint Review
 ☐ Complete Sprint Retrospective
+☐ Documentation Review
+☐ Update affected documents
 ☐ Update Decision Log
 ☐ Update Changelog
 ☐ Update Time Log
