@@ -29,7 +29,7 @@ Still haven't fully flesh out the Decision Log and PRD.
 
 Distractions and motivation are real and impactful issues that need constant consideration.
 While taking time off was a nice break, I am paying for it now by likely delaying the project by a month.
-An informal to-do list might be helpful. This would be for items that do not have their own stories and tasks in Jira. Examples include setting up Sprint 3 stories, researching tools for next sprint, discussions with ChatGPT involving business decisions, website development, etc.
+An informal to-do list might be helpful. This would be for items that do not have their own stories and tasks in Jira. Examples include setting up Sprint 3 stories, researching tools for next sprint, discussions with ChatGPT involving business decisions, website development, social media creation, market research, etc.
 
 ---
 
