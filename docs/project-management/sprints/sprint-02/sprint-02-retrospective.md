@@ -1,4 +1,4 @@
-# Sprint 1 Retrospective
+# Sprint 2 Retrospective
 
 Date:
 September 5, 2026
